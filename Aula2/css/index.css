@@ -22,7 +22,6 @@ nav{
 
 main{
     display: flex;
-    
 }
 
 header{
@@ -31,7 +30,7 @@ header{
     flex-direction: column;
 }
 
-header{
+header img{
     height: 80px;
     width: 80px;
     margin-top: 0px;
